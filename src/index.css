@@ -5,7 +5,9 @@ body {
 .to-do-list {
   font-family: Arial, sans-serif;
   text-align: center;
-  margin-top: 100px;
+  align-self: center;
+  margin: 100px auto;
+  max-width: 50%;
 }
 
 h1 {
@@ -51,6 +53,8 @@ button {
 input[type="text"] {
   font-size: 1.6rem;
   padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
   border: 2px solid hsla(0, 0%, 80%, 0.5);
   border-radius: 5px;
   color: hsla(0, 0%, 0%, 0.5);
