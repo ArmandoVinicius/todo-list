@@ -60,4 +60,4 @@ app.delete('/movies/:id', async (req, res) => {
   res.status(200).json({message: "Filme deletado com sucesso!"});
 })
 
-app.listen(3000);
+app.listen(process.env.PORT);
