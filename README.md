@@ -21,6 +21,9 @@ Um projeto pessoal feito com **React**, **Node.js**, **MongoDB** e **Prisma** qu
 
 ## 🚀 Rodando localmente
 
+*obs: note que o projeto ainda não está finalizado, portanto nem todas as funcionalidades estão funcionando*
+
+---
 1. **Clone o repositório:**
 
 ```bash
